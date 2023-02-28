@@ -1,5 +1,4 @@
-getwd()
-setwd("~/IDS/476/Project")
+
 crimes1<-read.csv('criminalobs.csv')
 View(crimes1)
 head(crimes1)
